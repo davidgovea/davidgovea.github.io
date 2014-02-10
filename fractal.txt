@@ -1,0 +1,421 @@
+spacer w10
+l4 w3
+
+
+
+spacer w8
+l4 w3
+l3 w1
+l4 w2
+
+
+
+spacer w7
+l4 w2
+l3 w2
+l2 w1
+l3 w1
+l4 w1
+
+
+
+spacer w6
+l4 w2
+l3 w1
+l2 w1
+l1 w2
+l3 w1
+l4 w1
+
+
+
+spacer w6
+l4 w1
+l3 w1
+l2 w1
+l1 w2
+l3 w2
+l4 w1
+
+
+
+spacer w6
+l4 w1
+l3 w1
+l2 w1
+l1 w2
+l2 w1
+l3 w1
+l4 w4
+
+
+
+spacer w2
+l4 w5
+l3 w1
+l1 w1
+bg w2
+l1 w1
+l2 w1
+l3 w1
+l4 w1
+l3 w1
+l4 w2
+
+
+
+spacer w1
+l4 w2
+l3 w4
+l2 w1
+bg w4
+l2 w2
+l3 w1
+l2 w1
+l3 w1
+l4 w2
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+l1 w1
+l2 w2
+l1 w2
+bg w2
+l1 w3
+l2 w1
+l1 w1
+l2 w1
+l3 w1
+l4 w1
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+bg w1
+l1 w2
+bg w8
+l2 w2
+l3 w1
+l4 w1
+spacer w1
+l4 w6
+
+
+
+l4 w2
+l3 w2
+l1 w1
+bg w10
+l1 w1
+l2 w1
+l3 w1
+l4 w3
+l3 w1
+l4 w1
+l3 w2
+l4 w2
+
+
+
+l4 w1
+l3 w1
+l2 w1
+l1 w2
+bg w11
+l1 w1
+l2 w1
+l3 w3
+l2 w1
+l3 w1
+l2 w1
+l1 w1
+l3 w1
+l4 w1
+
+
+
+l4 w1
+l3 w1
+l2 w1
+l1 w1
+bg w12
+l1 w2
+l3 w1
+l2 w1
+l1 w4
+l2 w1
+l3 w1
+l4 w2
+
+
+
+l4 w2
+l3 w1
+l1 w1
+bg w13
+l1 w1
+l2 w1
+l1 w1
+bg w3
+l1 w1
+l3 w3
+l4 w5
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+bg w13
+l1 w2
+bg w4
+l1 w1
+l2 w2
+l1 w1
+l3 w1
+l4 w2
+l3 w1
+l4 w3
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+l1 w1
+bg w19
+l1 w2
+l2 w2
+l3 w2
+l2 w1
+l3 w2
+l4 w2
+
+
+
+spacer w1
+l4 w2
+l3 w1
+l2 w1
+l1 w1
+bg w20
+l1 w3
+l2 w1
+bg w1
+l1 w1
+l2 w1
+l3 w1
+l4 w2
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+l1 w1
+bg w19
+l1 w2
+l2 w2
+l3 w2
+l2 w1
+l3 w2
+l4 w2
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+bg w13
+l1 w2
+bg w4
+l1 w1
+l2 w2
+l1 w1
+l3 w1
+l4 w2
+l3 w1
+l4 w3
+
+
+
+l4 w2
+l3 w1
+l1 w1
+bg w13
+l1 w1
+l2 w1
+l1 w1
+bg w3
+l1 w1
+l3 w3
+l4 w5
+
+
+
+l4 w1
+l3 w1
+l2 w1
+l1 w1
+bg w12
+l1 w2
+l3 w1
+l2 w1
+l1 w4
+l2 w1
+l3 w1
+l4 w2
+
+
+
+l4 w1
+l3 w1
+l2 w1
+l1 w2
+bg w11
+l1 w1
+l2 w1
+l3 w3
+l2 w1
+l3 w1
+l2 w1
+l1 w1
+l3 w1
+l4 w1
+
+
+
+l4 w2
+l3 w2
+l1 w1
+bg w10
+l1 w1
+l2 w1
+l3 w1
+l4 w3
+l3 w1
+l4 w1
+l3 w2
+l4 w2
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+bg w1
+l1 w2
+bg w8
+l2 w2
+l3 w1
+l4 w1
+spacer w1
+l4 w6
+
+
+
+spacer w1
+l4 w1
+l3 w1
+l2 w1
+l1 w1
+l2 w2
+l1 w2
+bg w2
+l1 w3
+l2 w1
+l1 w1
+l2 w1
+l3 w1
+l4 w1
+
+
+
+spacer w1
+l4 w2
+l3 w4
+l2 w1
+bg w4
+l2 w2
+l3 w1
+l2 w1
+l3 w1
+l4 w2
+
+
+
+spacer w2
+l4 w5
+l3 w1
+l1 w1
+bg w2
+l1 w1
+l2 w1
+l3 w1
+l4 w1
+l3 w1
+l4 w2
+
+
+
+spacer w6
+l4 w1
+l3 w1
+l2 w1
+l1 w2
+l2 w1
+l3 w1
+l4 w4
+
+
+
+spacer w6
+l4 w1
+l3 w1
+l2 w1
+l1 w2
+l3 w2
+l4 w1
+
+
+
+spacer w6
+l4 w2
+l3 w1
+l2 w1
+l1 w2
+l3 w1
+l4 w1
+
+
+
+spacer w7
+l4 w2
+l3 w2
+l2 w1
+l3 w1
+l4 w1
+
+
+
+spacer w8
+l4 w3
+l3 w1
+l4 w2
+
+
+
+spacer w10
+l4 w3
