@@ -12,13 +12,13 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "https://davidgovea.github.io"
 
 			# Here are some old site urls that you would like to redirect from
-			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
-			]
+			# oldUrls: [
+			# 	'www.website.com',
+			# 	'website.herokuapp.com'
+			# ]
 
 			# The default title of our website
 			title: "Kitchensink Skeleton for DocPad"
@@ -35,15 +35,15 @@ docpadConfig = {
 
 			# Styles
 			styles: [
-				"/vendor/responsive.min.css"
-				"/vendor/highlightjs.css"
+				# "/vendor/highlightjs.css"
+                # "/styles/foundation.css"
 				"/styles/style.css"
 			]
 
 			# Scripts
 			scripts: [
-				"/vendor/jquery.min.js"
-				"/scripts/script.js"
+				# "/vendor/jquery.min.js"
+				"/entry.js"
 			]
 
 		# -----------------------------
@@ -75,17 +75,23 @@ docpadConfig = {
 	# DocPad Collections
 
 	collections:
-		nifties: ->
-			@getCollection('documents').findAllLive({relativeOutDirPath:'nifties'},[title:1])
+		# nifties: ->
+		# 	@getCollection('documents').findAllLive({relativeOutDirPath:'nifties'},[title:1])
 
-		markups: ->
-			@getCollection('documents').findAllLive({relativeOutDirPath:'markups'},[title:1])
+		interests: ->
+			@getCollection('documents').findAllLive({relativeOutDirPath:'interests'},[title:1])
 
 		pages: ->
 			@getCollection('documents').findAllLive({relativeOutDirPath:'pages'},[title:1])
 
+		blog: ->
+			@getCollection('documents').findAllLive({relativeOutDirPath:'blog'},[date:-1])
+
 		posts: ->
-			@getCollection('documents').findAllLive({relativeOutDirPath:'posts'},[date:-1])
+            @getCollection('documents').findAllLive({relativeOutDirPath:'posts'},[date:-1])
+
+        allPosts: ->
+            @getCollection('documents').findAllLive({relativeOutDirPath:/(posts|blog)/},[date:-1])
 
 
 	# =================================
@@ -98,6 +104,10 @@ docpadConfig = {
 				less: 'css'
 				stylus: 'css'
 				md: 'markdown'
+
+        ghpages:
+            deployRemote: 'origin'
+            deployBranch: 'master'
 
 	# =================================
 	# DocPad Events
